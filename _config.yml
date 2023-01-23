@@ -2,3 +2,11 @@ theme: minima
 title: Python全栈课答学员提问
 author: Zhen Guo（郭震）
 description: 记录学员学习并提问我的Python全栈课
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
